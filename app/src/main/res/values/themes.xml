@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+    <style name="Theme.CustomSplashScreen" parent="Theme.SplashScreen">
+
+        <item name="windowSplashScreenBackground">@color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/aman_shop_logo</item>
+        <item name="postSplashScreenTheme">@style/Theme.AmanShop</item>
+
+    </style>
+
     <style name="Theme.AmanShop" parent="android:Theme.Material.Light.NoActionBar" />
 </resources>
