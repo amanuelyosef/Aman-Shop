@@ -1,5 +1,5 @@
+<img src="screenshots/aman_shop_logo_round.png" width="100"/><br>
 # Aman Shop
-<!-- logo image -->
 
 A peer-to-peer shopping app built using Jetpack Compose, open-sourced for contribution and learning purposes. The app focuses on UI implementation and provides a foundation for future logic development.
 
@@ -10,7 +10,15 @@ The app was created to enhance Jetpack Compose skills and serve as a foundation 
 **Note**: All listed features are implemented as UI only; logic implementations are not included. The app includes some non-functional endpoints (e.g., selling, user registration) for demonstration purposes. Contributions are welcome, as the app is still in early development.
 
 ## Screenshots
-<!-- all screenshots -->
+<img src="screenshots/Screenshot_1743756567.png" width="250"/> <img src="screenshots/Screenshot_1743756595.png" width="250"/>&nbsp;<img src="screenshots/Screenshot_1743756603.png" width="250"/><br>
+
+<img src="screenshots/Screenshot_1743756614.png" width="250"/> <img src="screenshots/Screenshot_1743756631.png" width="250"/> <img src="screenshots/Screenshot_1743756660.png" width="250"/><br>
+
+<img src="screenshots/Screenshot_1743756668.png" width="250"/> <img src="screenshots/Screenshot_1743756674.png" width="250"/> <img src="screenshots/Screenshot_1743756682.png" width="250"/><br>
+
+<img src="screenshots/Screenshot_1743756708.png" width="250"/> <img src="screenshots/Screenshot_1743756730.png" width="250"/> <img src="screenshots/Screenshot_1743756777.png" width="250"/><br>
+
+<img src="screenshots/Screenshot_1743757008.png" width="250"/> <img src="screenshots/Screenshot_1743757038.png" width="250"/> <img src="screenshots/Screenshot_1743757042.png" width="250"/><br>
 
 
 ## Features
