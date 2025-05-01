@@ -62,6 +62,25 @@ The app provides a UI for peer-to-peer shopping. Users can browse items, chat wi
 
 -   [Kotlin Coroutines](https://developer.android.com/kotlin/coroutines)  - A concurrency design pattern that you can use on Android to simplify code that executes asynchronously.           
 
+## Contributing
+
+We welcome contributions! If you would like to contribute to the Nike Store app, please follow these guidelines:
+
+1. **Fork the Repository**: Create your own fork of the project.
+2. **Create a Branch**: Make your changes in a new branch.
+   ```bash
+   git checkout -b feature/YourFeature
+   ```
+3. **Commit Your Changes**: Make sure to write clear commit messages.
+   ```bash
+   git commit -m "Add feature"
+   ```
+4. **Push to Your Fork**: Push your changes back to your fork.
+   ```bash
+   git push origin feature/YourFeature
+   ```
+5. **Create a Pull Request**: Submit a pull request to the main repository.
+
 ## License
 
 This project is licensed under the Apache 2.0 License.
